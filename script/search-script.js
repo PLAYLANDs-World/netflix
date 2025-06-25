@@ -84,7 +84,7 @@ document.addEventListener('scroll', () => {
 async function fetchServerData() {
     try {
         // In a real app, we would fetch from 'content-data.json'
-        const response = await fetch('/data/content-data.json');
+        const response = await fetch('../data/content-data.json');
         serverData = await response.json();
 
         // For demo purposes, we'll use hardcoded data
