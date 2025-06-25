@@ -1,0 +1,221 @@
+  /* Your existing header styles */
+  .header {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      background-color: transparent;
+      color: white;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 10px 5px;
+      z-index: 100;
+      transition: background-color 0.3s ease;
+  }
+
+  .header.scrolled {
+      background-color: rgba(0, 0, 0, 0.5);
+      backdrop-filter: blur(10px);
+  }
+
+
+  a {
+      text-decoration: none;
+      color: white;
+      cursor: default;
+  }
+
+  .prime-logo {
+      width: 40px;
+      margin-left: 12px;
+      transition: transform 0.3s ease;
+  }
+
+  .prime-logo:hover {
+      transform: scale(1.05);
+  }
+
+  .smoke-effect-header {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      transform: scale(-1, -1);
+      background:
+          linear-gradient(to top, rgba(0, 0, 0, 1) 15%, transparent 100%),
+          url('https://www.transparenttextures.com/patterns/asfalt-dark.png');
+      opacity: 0.4;
+      mix-blend-mode: multiply;
+      pointer-events: none;
+      z-index: -1;
+  }
+
+  .net-user-icon {
+      width: 30px;
+      height: 30px;
+      border-radius: 0.2rem;
+      margin-right: 5px;
+      cursor: pointer;
+      transition: transform 0.3s ease;
+  }
+
+  .net-user-icon:hover {
+      transform: scale(1.1);
+  }
+
+  .netflix-search-btn-for-open-search {
+      position: absolute;
+      width: 30px;
+      height: 30px;
+      right: 80px;
+      padding: 5px;
+      cursor: default;
+      z-index: 100;
+      color: white;
+      transition: transform 0.3s ease;
+  }
+
+  .netflix-search-btn-for-open-search svg {
+      width: 100%;
+      height: 100%;
+      fill: white;
+      transition: fill 0.3s ease;
+  }
+
+  .netflix-search-btn-for-open-search:active {
+      transform: scale(0.8);
+  }
+
+  .netflix-search-btn-for-open-search:hover svg {
+      fill: #e50914;
+  }
+
+  /* New dropdown styles */
+  .user-menu {
+      position: relative;
+      display: inline-block;
+      margin-right: 15px;
+  }
+
+  .dropdown-container {
+      position: absolute;
+      top: 100%;
+      right: 0;
+      margin-top: 5px;
+      margin-right: 5px;
+      background: rgba(0, 0, 0);
+      border: 1px solid #333;
+      border-radius: 4px;
+      padding: 10px 0;
+      min-width: 200px;
+      display: none;
+      z-index: 1001;
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.5);
+      animation: fadeIn 0.3s ease;
+  }
+
+  .dropdown-container.show {
+      display: block;
+  }
+
+  @keyframes fadeIn {
+      from {
+          opacity: 0;
+          transform: translateY(-10px);
+      }
+
+      to {
+          opacity: 1;
+          transform: translateY(0);
+      }
+  }
+
+  .user-info {
+      padding: 10px;
+      display: flex;
+      align-items: center;
+      border-bottom: 1px solid #333;
+  }
+
+  .user-info img {
+      width: 25px;
+      height: 25px;
+      border-radius: 2px;
+      margin-top: -9px;
+      margin-left: 5px;
+      margin-right: 15px;
+  }
+
+  .user-name {
+      font-size: 14px;
+      margin-top: -9px;
+      font-weight: 500;
+      color: #fff;
+  }
+
+  .dropdown-menu {
+      list-style: none;
+      padding: 5px 0;
+  }
+
+  .dropdown-menu li {
+      padding: 8px 20px;
+      font-size: 14px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      color: #e5e5e5;
+      transition: background-color 0.2s ease;
+  }
+
+  .dropdown-menu li i {
+      margin-right: 15px;
+      width: 20px;
+      text-align: center;
+      color: #b3b3b3;
+  }
+  
+  .dropdown-menu li a {
+      text-decoration: none;
+      color: inherit;
+  }
+
+  .dropdown-menu li:hover {
+      background-color: #333;
+      color: #fff;
+  }
+
+  .dropdown-menu li:hover i {
+      color: #e50914;
+  }
+
+  .dropdown-menu li.divider {
+      padding: 0;
+      height: 1px;
+      background-color: #333;
+      margin: 10px 0;
+      cursor: default;
+  }
+
+  /* Media queries */
+  @media (min-width: 768px) {
+      .netflix-search-btn-for-open-search {
+          cursor: default;
+      }
+
+      a {
+            cursor: default;   
+      }
+  }
+
+  @media (min-width: 992px) {
+      .netflix-search-btn-for-open-search {
+          cursor: pointer;
+      }
+
+      a {
+        cursor: pointer;
+      }
+  }

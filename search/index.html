@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <!-- Universal Social Meta Tags -->
+    <title id="meta-title">Search</title>
+    <meta name="description" id="meta-desc"
+        content="Stream smarter! Dive into unlimited movies, web series, and exclusive originals in 4K. From edge-of-seat thrillers to laugh-out-loud comedies, we’ve got it all. Watch anytime, anywhere—download offline or stream HD. Tailored picks, ad-free plans, and multi-device sync make binge-watching effortless. Perfect for film buffs and casual viewers. Join the revolution. Your screen, your rules. 🎥✨ Start now!">
+
+    <!-- Open Graph (Facebook, WhatsApp, Instagram, Telegram) -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" id="og-url" content="">
+    <meta property="og:title" id="og-title" content="Netflix">
+    <meta property="og:description" id="og-desc"
+        content="Stream smarter! Dive into unlimited movies, web series, and exclusive originals in 4K. From edge-of-seat thrillers to laugh-out-loud comedies, we’ve got it all. Watch anytime, anywhere—download offline or stream HD. Tailored picks, ad-free plans, and multi-device sync make binge-watching effortless. Perfect for film buffs and casual viewers. Join the revolution. Your screen, your rules. 🎥✨ Start now!">
+    <meta property="og:image" id="og-image"
+        content="https://image.tmdb.org/t/p/original/fyVoyLcf2TvhP9XGjtXu8xSiPPF.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+    <link rel="icon" type="image/png"
+        href="https://cdn.jsdelivr.net/gh/Unknownyy00/01-img-share@main/Netflix-Symbol-RGB.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="../../style/header.css">
+    <link rel="stylesheet" href="../../style/res-img.css">
+    <link rel="stylesheet" href="../../style/res-text.css">
+    <link rel="stylesheet" href="../../style/course-option.css">
+    <link rel="stylesheet" href="../../style/search-style.css">
+    <link rel="stylesheet" href="../../style/body-lock.css">
+    <link rel="stylesheet" href="../../style/universal-video-player.css">
+</head>
+
+<body>
+    <!-- Header with Netflix-style navigation -->
+    <div class="header">
+        <img src="https://cdn.jsdelivr.net/gh/Unknownyy00/01-img-share@main/Netflix-Symbol-RGB.png" class="prime-logo">
+        <img src="https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-qo9h82134t9nv0j0.jpg"
+            class="net-user-icon">
+        <div class="smoke-effect-header"></div>
+    </div>
+
+    <!-- Search overlay -->
+    <div class="search-overlay" id="search-overlay"></div>
+
+    <!-- Main search section -->
+    <h1 class="search-title" id="search-title">Search</h1>
+
+    <div class="pt-search-container">
+        <div class="search-container">
+            <div class="search-bar" id="search-bar">
+                <input type="text" id="search-input" placeholder="Search for movies or TV series..." autocomplete="off">
+                <button id="search-btn"><i class="fas fa-search"></i></button>
+            </div>
+            <div class="suggestions-dropdown" id="suggestions-dropdown">
+                <div class="loader-mini-container">
+                    <!-- Loading spinner will be inserted here -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main content -->
+    <div class="container">
+        <div class="loader" id="loader">
+            <div class="loader-spinner"></div>
+            <p>Searching TMDB...</p>
+        </div>
+
+        <div class="results-container" id="results-container">
+            <!-- Results will be populated here -->
+        </div>
+    </div>
+
+    <!-- Popup for unavailable content -->
+    <div class="popup" id="popup">
+        <div class="popup-content">
+            <div class="pt-popup-backdrop">
+                <div class="popup-close" id="popup-close">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                        class="bi bi-x-lg" viewBox="0 0 16 16">
+                        <path
+                            d="M2.146 2.854a.5.5 0 1 1 .708-.708L8 7.293l5.146-5.147a.5.5 0 0 1 .708.708L8.707 8l5.147 5.146a.5.5 0 0 1-.708.708L8 8.707l-5.146 5.147a.5.5 0 0 1-.708-.708L7.293 8z" />
+                    </svg>
+                </div>
+                <div class="popup-backdrop">
+                    <img id="popup-backdrop" src="" alt="Movie Backdrop">
+                </div>
+            </div>
+
+            <div class="popup-details">
+                <div class="pt-popup-logo">
+                    <img class="popup-logo" id="popup-logo" src="" alt="">
+                    <h2 class="popup-title" id="popup-title">Movie Title</h2>
+                </div>
+
+
+                <div class="popup-meta">
+                    <span id="popup-year" class="popup-meta-data">2023</span>
+                    <span class="popup-meta-sepreate"> • </span>
+                    <span id="popup-age" class="popup-meta-data-age">PG-13</span>
+                    <span class="popup-meta-sepreate"> • </span>
+                    <span id="popup-runtime" class="popup-meta-data">2h 15m</span>
+                    <span class="popup-meta-sepreate"> • </span>
+                    <span class="popup-meta-data">TMDB <span id="popup-rating"
+                            style="font-family: 'Courier New', Courier, monospace; font-weight: bolder; margin-left: 3px;">7.5</span></span>
+                </div>
+                <div class="pt-popup-content-not-avilable-yet">
+                    <div class="popup-content-not-avilable-yet">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                            class="bi bi-bell-slash-fill" viewBox="0 0 16 16">
+                            <path
+                                d="M5.164 14H15c-1.5-1-2-5.902-2-7q0-.396-.06-.776zm6.288-10.617A5 5 0 0 0 8.995 2.1a1 1 0 1 0-1.99 0A5 5 0 0 0 3 7c0 .898-.335 4.342-1.278 6.113zM10 15a2 2 0 1 1-4 0zm-9.375.625a.53.53 0 0 0 .75.75l14.75-14.75a.53.53 0 0 0-.75-.75z" />
+                        </svg>
+                        Request Availability Notification
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                            class="bi bi-bell-slash-fill" viewBox="0 0 16 16">
+                            <path
+                                d="M5.164 14H15c-1.5-1-2-5.902-2-7q0-.396-.06-.776zm6.288-10.617A5 5 0 0 0 8.995 2.1a1 1 0 1 0-1.99 0A5 5 0 0 0 3 7c0 .898-.335 4.342-1.278 6.113zM10 15a2 2 0 1 1-4 0zm-9.375.625a.53.53 0 0 0 .75.75l14.75-14.75a.53.53 0 0 0-.75-.75z" />
+                        </svg>
+                    </div>
+                </div>
+
+                <div class="popup-genres" id="popup-genres">
+                    <!-- Genres will be populated here -->
+                </div>
+                <p class="popup-description" id="popup-description">Movie description goes here...</p>
+
+                <div class="popup-cast">
+                    <div class="cast-list" id="popup-cast">
+                        <!-- Cast will be populated here -->
+                    </div>
+                </div>
+
+            </div>
+            <div class="popup-content-request">
+                <img class="popup-second-backdrop" id="popup-second-backdrop" src="" alt="">
+                <div class="content-request-area">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor"
+                        class="bi bi-quote" viewBox="0 0 16 16">
+                        <path
+                            d="M12 12a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1h-1.388q0-.527.062-1.054.093-.558.31-.992t.559-.683q.34-.279.868-.279V3q-.868 0-1.52.372a3.3 3.3 0 0 0-1.085.992 4.9 4.9 0 0 0-.62 1.458A7.7 7.7 0 0 0 9 7.558V11a1 1 0 0 0 1 1zm-6 0a1 1 0 0 0 1-1V8.558a1 1 0 0 0-1-1H4.612q0-.527.062-1.054.094-.558.31-.992.217-.434.559-.683.34-.279.868-.279V3q-.868 0-1.52.372a3.3 3.3 0 0 0-1.085.992 4.9 4.9 0 0 0-.62 1.458A7.7 7.7 0 0 0 3 7.558V11a1 1 0 0 0 1 1z" />
+                    </svg>"Oops! This content is currently unavailable to watch. But no worries — you can request it
+                    anytime through our Telegram support community. We'll do our best to make it available for you as
+                    soon as possible.
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Footer -->
+    <script src="../../script/search-script.js"></script>
+    <script src="../../script/search-header.js"></script>
+    <script src="../../script/body-lock.js"></script>
+</body>
+
+</html>

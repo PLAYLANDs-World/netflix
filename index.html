@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <!-- Universal Social Meta Tags -->
+    <title id="meta-title">Netflix</title>
+    <meta name="description" id="meta-desc"
+        content="Stream smarter! Dive into unlimited movies, web series, and exclusive originals in 4K. From edge-of-seat thrillers to laugh-out-loud comedies, we’ve got it all. Watch anytime, anywhere—download offline or stream HD. Tailored picks, ad-free plans, and multi-device sync make binge-watching effortless. Perfect for film buffs and casual viewers. Join the revolution. Your screen, your rules. 🎥✨ Start now!">
+
+    <!-- Open Graph (Facebook, WhatsApp, Instagram, Telegram) -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" id="og-url" content="">
+    <meta property="og:title" id="og-title" content="Netflix">
+    <meta property="og:description" id="og-desc"
+        content="Stream smarter! Dive into unlimited movies, web series, and exclusive originals in 4K. From edge-of-seat thrillers to laugh-out-loud comedies, we’ve got it all. Watch anytime, anywhere—download offline or stream HD. Tailored picks, ad-free plans, and multi-device sync make binge-watching effortless. Perfect for film buffs and casual viewers. Join the revolution. Your screen, your rules. 🎥✨ Start now!">
+    <meta property="og:image" id="og-image"
+        content="https://image.tmdb.org/t/p/original/fyVoyLcf2TvhP9XGjtXu8xSiPPF.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+    <link rel="icon" type="image/png"
+        href="https://cdn.jsdelivr.net/gh/Unknownyy00/01-img-share@main/Netflix-Symbol-RGB.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style/header.css">
+    <link rel="stylesheet" href="style/res-img.css">
+    <link rel="stylesheet" href="style/res-text.css">
+    <link rel="stylesheet" href="style/course-option.css">
+    <link rel="stylesheet" href="style/home-style.css">
+    <link rel="stylesheet" href="style/universal-video-player.css">
+</head>
+
+<body>
+    <div class="header">
+        <img src="https://cdn.jsdelivr.net/gh/Unknownyy00/01-img-share@main/Netflix-Symbol-RGB.png" class="prime-logo">
+        <img src="https://wallpapers.com/images/hd/netflix-profile-pictures-1000-x-1000-qo9h82134t9nv0j0.jpg"
+            class="net-user-icon">
+        <div class="smoke-effect-header"></div>
+    </div>
+
+    <div id="main-slideshow-container"></div>
+
+
+    <div class="loading">
+        <div class="netflix-logo">
+            <!-- Netflix Logo SVG -->
+            <img src="https://cdn.jsdelivr.net/gh/Unknownyy00/01-img-share@main/Netflix-Symbol-RGB.png"
+                class="loading-screen-logo">
+        </div>
+
+        <div class="loading-content">
+            <div class="pt-spinner">
+                <div class="netflix-spinner" id="spinner"></div>
+            </div>
+
+            <p>Loading...</p>
+
+            <div class="progress-bar">
+                <div class="progress"></div>
+            </div>
+        </div>
+        <div class="background-dots" id="background-dots"></div>
+    </div>
+    <main id="main-container">
+    </main>
+
+    <!-- Movie Detail Overlay -->
+    <div class="overlay" id="overlay">
+        <div class="movie-detail-card">
+            <img class="detail-backdrop" id="detail-backdrop" src="https://source.unsplash.com/random/1200x800/?cinema"
+                alt="Movie backdrop">
+            <div class="pt-detail-logo">
+                <img class="detail-logo" id="detail-logo"
+                    src="https://via.placeholder.com/300x100/333333/FFFFFF?text=Movie+Title" alt="Movie logo">
+            </div>
+            <div class="detail-content">
+                <div class="detail-header">
+                    <div id="play-btn-form-detail">
+                        <button class="play-btn" onclick="openstreamingpage('')">
+                            <i class="fas fa-play"></i> Watch Now
+                        </button>
+                    </div>
+                    <h1 class="movie-title-large" id="detail-title">The Idea of You</h1>
+                </div>
+                <div class="movie-meta">
+                    <span class="movie-year" id="detail-year">2024</span>
+                    <span class="movie-rating-large">IMDb</i> <span id="detail-rating">8.2</span></span>
+                    <span class="age-rating" id="detail-age">18+</span>
+                </div>
+                <p class="movie-description" id="detail-description">
+                    Based on the acclaimed, contemporary love story of the same name, The Idea of You centers on Solène,
+                    a 40-year-old single mom who begins an unexpected romance with 24-year-old Hayes Campbell, the lead
+                    singer of August Moon, the hottest boy band on the planet.
+                </p>
+                <div class="movie-genres" id="detail-genres">
+                    <span class="genre-tag">Romance</span>
+                    <span class="genre-tag">Drama</span>
+                    <span class="genre-tag">Music</span>
+                </div>
+            </div>
+            <button class="close-btn">
+                <i class="fas fa-times"></i>
+            </button>
+        </div>
+    </div>
+
+
+    <script src="script/home-script.js"></script>
+    <script src="/script/header.js"></script>
+    <script src="script/share-this-page.js"></script>
+    <script src="script/reload-refresh.js"></script>
+    <script src="script/universal-video-player.js"></script>
+</body>
+
+</html>

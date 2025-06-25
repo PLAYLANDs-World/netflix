@@ -1,0 +1,1388 @@
+{
+    "content": [
+        {
+            "id": 1,
+            "tmdb_id": 44896,
+            "imdb_id": "tt1192628",
+            "title": "Rango",
+            "type": "movie",
+            "genre": [
+                "Animation",
+                "Comedy",
+                "Family",
+                "Western",
+                "Adventure"
+            ],
+            "top_cast": [
+                "Johnny Depp",
+                "Isla Fisher",
+                "Ned Beatty",
+                "Bill Nighy",
+                "Abigail Breslin"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
+                "https://image.tmdb.org/t/p/original/vGujQOfGIaZx5UWxf9JdNEOxl7B.jpg",
+                "https://image.tmdb.org/t/p/original/uKH9c1BBfRH6uWHy7r2OxFPPWJf.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/A5MP1guV8pbruieG0tnpPIbaJtt.jpg",
+                "https://image.tmdb.org/t/p/original/99Dpm7Ep8OelbNyEVBlln50EHGj.jpg",
+                "https://image.tmdb.org/t/p/original/7lnzK20VTsHqGui8B841Obo3zR1.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/tmFRnTNRWqrKWRLmXusLd1OIDR.jpg",
+                "https://image.tmdb.org/t/p/original/eEpGVFoBzaDEBcfPYeM6g77onzN.jpg",
+                "https://image.tmdb.org/t/p/original/8H1nmLGqecXQgZyjtajcL0X3u75.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/7dp5f7YPNBSuDJ1F2ae96eCzuSU.jpg",
+                "https://image.tmdb.org/t/p/original/6B2tOYhaIpv3kPKBkvdebX624Gw.jpg",
+                "https://image.tmdb.org/t/p/original/mOtKQlXdL5J4lwqcSFlkZmgmFeZ.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/cufyuJsl0jJL3y6VQWTL0TFo3wX.png",
+                "https://image.tmdb.org/t/p/original/iqqSLuCmi3CsXdm49Ildm2PwWKJ.png",
+                "https://image.tmdb.org/t/p/original/gZwnjlmSwUq2Qr5pFe9nyWd9zrL.png"
+            ],
+            "rating": "7.3",
+            "year": "2011",
+            "ageRating": "PG",
+            "description": "When Rango, a lost family pet, accidentally winds up in the gritty, gun-slinging town of Dirt, the less-than-courageous lizard suddenly finds he stands out. Welcomed as the last hope the town has been waiting for, new Sheriff Rango is forced to play his new role to the hilt.",
+            "duration": "1h 47m",
+            "url": "movies/rango-2011"
+        },
+        {
+            "id": 2,
+            "tmdb_id": 696506,
+            "imdb_id": "tt12299608",
+            "title": "Mickey 17",
+            "type": "movie",
+            "genre": [
+                "Science Fiction",
+                "Comedy",
+                "Adventure"
+            ],
+            "top_cast": [
+                "Robert Pattinson",
+                "Naomi Ackie",
+                "Steven Yeun",
+                "Mark Ruffalo",
+                "Toni Collette"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+                "https://image.tmdb.org/t/p/original/lrCcovGRcuv8Z1v3ae1ZH5Ird05.jpg",
+                "https://image.tmdb.org/t/p/original/fjIHkLGIZdjKIKe252gSFt5QzVK.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg",
+                "https://image.tmdb.org/t/p/original/tQmakzhtcG3J2a1guoRbzC5zAwc.jpg",
+                "https://image.tmdb.org/t/p/original/ibxrIdCxj2By8UuqouVqNYZJqj2.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/eXI4f84TORypmQ5vQGWtapvcYeP.jpg",
+                "https://image.tmdb.org/t/p/original/4ZLbCKOZqlqmPwKla3H4BSjrpSQ.jpg",
+                "https://image.tmdb.org/t/p/original/zNaTUUTXY3CazjitZqa3cHqefJB.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/pkZ8SaIQwjBuS1fcJJE7Are7IrL.jpg",
+                "https://image.tmdb.org/t/p/original/qUc0Hol3eP74dbW4YyqT6oRLYgT.jpg",
+                "https://image.tmdb.org/t/p/original/hNA73rnG4PjSwgojaC2gbO1f8Rt.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/ffJVoywEy5F838YkqBljNm0yyit.png",
+                "https://image.tmdb.org/t/p/original/7ntB53GuY1ZBDIRhbaXMugWaCPk.png",
+                "https://image.tmdb.org/t/p/original/hokfhhg4nZsejd18Gb9tROksAWJ.png"
+            ],
+            "rating": "6.8",
+            "year": "2025",
+            "ageRating": "R",
+            "description": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job… to die, for a living.",
+            "duration": "2h 17m",
+            "url": "movies/mickey-17-2025"
+        },
+        {
+            "id": 3,
+            "tmdb_id": 441717,
+            "imdb_id": "tt7019842",
+            "title": "96",
+            "type": "movie",
+            "genre": [
+                "Romance"
+            ],
+            "top_cast": [
+                "Vijay Sethupathi",
+                "Trisha Krishnan",
+                "Aditya Baskar",
+                "Gouri G Kishan",
+                "Devadarshini"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/nrVloCa2hCFOztRF1DZU2jnWIiQ.jpg",
+                "https://image.tmdb.org/t/p/original/dYImzEquIZglfzDnJlHYdlUIeSo.jpg",
+                "https://image.tmdb.org/t/p/original/rZFtkKF10s4Uq0Z5A9z3ARW5rnk.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/nrVloCa2hCFOztRF1DZU2jnWIiQ.jpg",
+                "https://image.tmdb.org/t/p/original/dYImzEquIZglfzDnJlHYdlUIeSo.jpg",
+                "https://image.tmdb.org/t/p/original/rZFtkKF10s4Uq0Z5A9z3ARW5rnk.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/29ll78JPYFlBgYNBtsN3VnC7L4u.jpg",
+                "https://image.tmdb.org/t/p/original/6W8E2o6TMrVg2Ck5wXe6pyW3Le.jpg",
+                "https://image.tmdb.org/t/p/original/1L9ZXBgNgdIlJONOa8pdZToaHpt.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/29ll78JPYFlBgYNBtsN3VnC7L4u.jpg",
+                "https://image.tmdb.org/t/p/original/qzu94AvnZ1az30sTUuibx2bXpfs.jpg",
+                "https://image.tmdb.org/t/p/original/exJu48FYngKifMWKelNPr6hPFjU.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/2DMuk5Q77v99IVEFodVB9oBaSH3.png"
+            ],
+            "rating": "8.5",
+            "year": "2018",
+            "ageRating": "PG",
+            "description": "Ram is a photographer and nature lover who travels all around India capturing moments. On a chance visit to his hometown Tanjavur, he goes into his school and begins to walk down memory lane to 1994 when he was a student harboring feelings for his classmate Janu.",
+            "duration": "2h 38m",
+            "url": "movies/96-2018"
+        },
+        {
+            "id": 4,
+            "tmdb_id": 627336,
+            "imdb_id": "tt10505918",
+            "title": "L2: Empuraan",
+            "type": "movie",
+            "genre": [
+                "Action",
+                "Crime",
+                "Thriller"
+            ],
+            "top_cast": [
+                "Mohanlal",
+                "Prithviraj Sukumaran",
+                "Manju Warrier",
+                "Tovino Thomas",
+                "Abhimanyu Singh"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/vUARCyq4NaoPX4wgFmkiz1Msqiq.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/dfaZipN3Aw5BK85nEvfr2FNg4EW.jpg",
+                "https://image.tmdb.org/t/p/original/j2ac4oVp8jbv5totk2oTj7wop7a.jpg",
+                "https://image.tmdb.org/t/p/original/vUARCyq4NaoPX4wgFmkiz1Msqiq.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/2pGDB7BBGPQoMTZJx4VLGXRTaWC.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/jYaoVDJ9J6Me3J0EQCABzQ99YVG.jpg",
+                "https://image.tmdb.org/t/p/original/sNgKLKHuzdIZa586UZKZ05jKhd0.jpg",
+                "https://image.tmdb.org/t/p/original/2pGDB7BBGPQoMTZJx4VLGXRTaWC.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/h9JvPltRpqfDYgAMeRO9mgs9Cx6.png",
+                "https://image.tmdb.org/t/p/original/ljGgnMM7OUMQQ4fe6G7ROaukyLm.png",
+                "https://image.tmdb.org/t/p/original/iy53SkNcLv8FXAUe298I0wyrnIS.png"
+            ],
+            "rating": "6.2",
+            "year": "2025",
+            "ageRating": "PG",
+            "description": "Five years after becoming Chief Minister of Kerala, Jathin Ramdas's move to align with communal forces led by Balraj 'Baba' Bajrangi, triggers Stephen Nedumpally aka Khureshi Ab'raam to return with his Man Friday Zayed Masood to save his home state and settle scores.",
+            "duration": "2h 59m",
+            "url": "movies/l2-empuraan-2025"
+        },
+        {
+            "id": 5,
+            "tmdb_id": 710295,
+            "imdb_id": "tt4216984",
+            "title": "Wolf Man",
+            "type": "movie",
+            "genre": [
+                "Horror",
+                "Thriller"
+            ],
+            "top_cast": [
+                "Christopher Abbott",
+                "Julia Garner",
+                "Matilda Firth",
+                "Sam Jaeger",
+                "Ben Prendergast"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/wpSDzTBfF0Eeo5lzu2w9FTujGqd.jpg",
+                "https://image.tmdb.org/t/p/original/vtdEHG1j07PqLlVyhKNZRHTPKGt.jpg",
+                "https://image.tmdb.org/t/p/original/jTPBMPTgk9zOUGSkWcoOGbX8cTi.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/wpSDzTBfF0Eeo5lzu2w9FTujGqd.jpg",
+                "https://image.tmdb.org/t/p/original/fVZfAfqj7zvjw6KJ7n8HZfSyENt.jpg",
+                "https://image.tmdb.org/t/p/original/ujY9qtLzsEm5SipQTB3f5XXOGDX.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/fyVoyLcf2TvhP9XGjtXu8xSiPPF.jpg",
+                "https://image.tmdb.org/t/p/original/lXD6v0vvRLBgGHtYTAssaZYkLkr.jpg",
+                "https://image.tmdb.org/t/p/original/mZzccLv3FFzgr51SF4JSeHiciuI.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/wwARk7hRIfHfh2n2ubN6N7lvTne.jpg",
+                "https://image.tmdb.org/t/p/original/nNF4ZB0UDL4qAUjQfbYZDq3Ck7J.jpg",
+                "https://image.tmdb.org/t/p/original/eHu1ZxFPmqyhnait9VdsOQBEFOk.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/8nd6C23cvycRZLw6mkqfVjYPVRe.png",
+                "https://image.tmdb.org/t/p/original/AbdCgIqrq9ujDJwWqabsAyWquhD.png",
+                "https://image.tmdb.org/t/p/original/yhHEba7O7ZB2kPBVavtvjeJ7iO7.png"
+            ],
+            "rating": "6.4",
+            "year": "2025",
+            "ageRating": "PG",
+            "description": "With his marriage fraying, Blake persuades his wife Charlotte to take a break from the city and visit his remote childhood home in rural Oregon. As they arrive at the farmhouse in the dead of night, they're attacked by an unseen animal and barricade themselves inside the home as the creature prowls the perimeter. But as the night stretches on, Blake begins to behave strangely, transforming into something unrecognizable.",
+            "duration": "1h 42m",
+            "url": "movies/wolf-man-2025"
+        },
+        {
+            "id": 6,
+            "tmdb_id": 1245091,
+            "imdb_id": "tt15964306",
+            "title": "Garadi",
+            "type": "movie",
+            "genre": [
+                "Comedy"
+            ],
+            "top_cast": [
+                "Sonal Monteiro",
+                "Yashas Surya"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/w500/nPtLGRVo14q8nW2XEBHBMUhgsgt.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/nPtLGRVo14q8nW2XEBHBMUhgsgt.jpg",
+                "https://image.tmdb.org/t/p/original/wHDTlX0YI7tx5pGoFMOR8RrvHOS.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/wHDTlX0YI7tx5pGoFMOR8RrvHOS.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/wHDTlX0YI7tx5pGoFMOR8RrvHOS.jpg"
+            ],
+            "logo": [],
+            "rating": "5.5",
+            "year": "2023",
+            "ageRating": "PG",
+            "description": "Garadi is the school of traditional Indian wrestling.Suri is a wannabe wrestler. His aim is to win the local wrestling championship. His guru snubs his talent.Guru's stance is that Suri's father & brother are criminals. He feels Suri might also become a criminal if he learns wrestling.He makes him do menial jobs instead of teaching him Garadi. In his free time Suri secretly practices wrestling.",
+            "duration": "2h 26m",
+            "url": "movies/garadi-2023"
+        },
+        {
+            "id": 7,
+            "tmdb_id": 353486,
+            "imdb_id": "tt2283362",
+            "title": "Jumanji: Welcome to the Jungle",
+            "type": "movie",
+            "genre": [
+                "Adventure",
+                "Comedy",
+                "Fantasy",
+                "Action",
+                "Family"
+            ],
+            "top_cast": [
+                "Dwayne Johnson",
+                "Kevin Hart",
+                "Jack Black",
+                "Karen Gillan",
+                "Rhys Darby"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/pSgXKPU5h6U89ipF7HBYajvYt7j.jpg",
+                "https://image.tmdb.org/t/p/original/bXrZ5iHBEjH7WMidbUDQ0U2xbmr.jpg",
+                "https://image.tmdb.org/t/p/original/idFEJScwWfQa4lrI76L1zn1gdM3.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/uT1pHr90KqQGMucv7YgyPdxhMiC.jpg",
+                "https://image.tmdb.org/t/p/original/1uQaSgtHyTN3r2fecL0mSs6geQO.jpg",
+                "https://image.tmdb.org/t/p/original/6PbomI3fxbaGD4SvoP11q9qkV1W.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/rrc7ybGw9bgl40yGZDNIVoJtXeK.jpg",
+                "https://image.tmdb.org/t/p/original/dBf1gwACvGGAhusT0W74Z4ZXg1b.jpg",
+                "https://image.tmdb.org/t/p/original/wyIYXzTK1QPfF9meUoj8KmG5Mbc.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/zZKmEmRDc7ZjFucPm2UGNgDRlDc.jpg",
+                "https://image.tmdb.org/t/p/original/rz3TAyd5kmiJmozp3GUbYeB5Kep.jpg",
+                "https://image.tmdb.org/t/p/original/cpz070zEKbPGXzCWuQsNt42PqXY.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/A5R94rW4L9HUruWbw3ra5xFQaKB.png",
+                "https://image.tmdb.org/t/p/original/bDRxqJurrQflUgPrsMRKA7ikBaP.png"
+            ],
+            "rating": "6.8",
+            "year": "2017",
+            "ageRating": "PG",
+            "description": "Four teenagers in detention discover an old video game console with a game they’ve never heard of. When they decide to play, they are immediately sucked into the jungle world of Jumanji in the bodies of their avatars. They’ll have to complete the adventure of their lives filled with fun, thrills and danger or be stuck in the game forever!",
+            "duration": "1h 59m",
+            "url": "movies/jumanji-welcome-to-the-jungle-2017"
+        },
+        {
+            "id": 8,
+            "tmdb_id": 557,
+            "imdb_id": "tt0145487",
+            "title": "Spider-Man",
+            "type": "movie",
+            "genre": [
+                "Action",
+                "Science Fiction"
+            ],
+            "top_cast": [
+                "Tobey Maguire",
+                "Willem Dafoe",
+                "Kirsten Dunst",
+                "James Franco",
+                "Cliff Robertson"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",
+                "https://image.tmdb.org/t/p/original/nXdAh5vUwERL4WGVMaee8RoDEAS.jpg",
+                "https://image.tmdb.org/t/p/original/gSZyYEK5AfZuOFFjnVPUCLvdOD6.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/1PCbXfJSmrzn7hT6TiCqEnMXphy.jpg",
+                "https://image.tmdb.org/t/p/original/rdND66ShEREadZHCtQyEQVEdrn6.jpg",
+                "https://image.tmdb.org/t/p/original/tCZrHq6CMgtiMbelgnroyVWF5uV.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/no2cllXSRA56LPipQnuPlg3RuTL.jpg",
+                "https://image.tmdb.org/t/p/original/zkJmCQBajkLXSe2DXJE2Qv4D0KJ.jpg",
+                "https://image.tmdb.org/t/p/original/qGjChVF43jXhANS7qsWFm0zil5e.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/no2cllXSRA56LPipQnuPlg3RuTL.jpg",
+                "https://image.tmdb.org/t/p/original/2PDTWfuBWQKVC7aPAqJK5UCpz08.jpg",
+                "https://image.tmdb.org/t/p/original/qJzloL8O9YHhiWBrhlPfKAtZu2I.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/kNPXwReF35JpWBqGw8HadykznPT.png",
+                "https://image.tmdb.org/t/p/original/g8ljYjSwyAqevCzqTkV7rpRYNhB.png",
+                "https://image.tmdb.org/t/p/original/9H5oeZCO3wpm78k8JnThlPcCny9.png"
+            ],
+            "rating": "7.3",
+            "year": "2002",
+            "ageRating": "PG",
+            "description": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+            "duration": "2h 1m",
+            "url": "movies/spiderman-2002"
+        },
+        {
+            "id": 9,
+            "tmdb_id": 558,
+            "imdb_id": "tt0316654",
+            "title": "Spider-Man 2",
+            "type": "movie",
+            "genre": [
+                "Action",
+                "Adventure",
+                "Science Fiction"
+            ],
+            "top_cast": [
+                "Tobey Maguire",
+                "Kirsten Dunst",
+                "James Franco",
+                "Alfred Molina",
+                "Rosemary Harris"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg",
+                "https://image.tmdb.org/t/p/original/olxpyq9kJAZ2NU1siLshhhXEPR7.jpg",
+                "https://image.tmdb.org/t/p/original/myvj6Slsv3wWtDKKS2IOmbqBTCa.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/y06FivvCfqapHB3iETOtbAqWdkD.jpg",
+                "https://image.tmdb.org/t/p/original/9UFmALFtSQnAOglTSDUeeLkRp9Z.jpg",
+                "https://image.tmdb.org/t/p/original/aGuvNAaaZuWXYQQ6N2v7DeuP6mB.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/mVnqWRyC7Qkg7eyLkko8aYBDxb8.jpg",
+                "https://image.tmdb.org/t/p/original/vmVihB2VitWwH3bIZB7o7ighe29.jpg",
+                "https://image.tmdb.org/t/p/original/z9FcSlz4LKC3ACRYvFP4MK5SyDc.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/vqZnytUpDDAZI6JU7WtCqdq84L.jpg",
+                "https://image.tmdb.org/t/p/original/8G6HCS82vNxgg5wp7oBDSk32XpF.jpg",
+                "https://image.tmdb.org/t/p/original/6al048Lat3eLVQOuKtc9h6Tu94d.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/mSYIoj4eNWMDdxaTIf7xzDqvYDm.png",
+                "https://image.tmdb.org/t/p/original/qdQT0IXmpbhxZerwwX0HnDWE687.png",
+                "https://image.tmdb.org/t/p/original/mtoz6txUHm2svYy6S8eCBeF6pmZ.png"
+            ],
+            "rating": "7.3",
+            "year": "2004",
+            "ageRating": "PG",
+            "description": "Peter Parker is going through a major identity crisis. Burned out from being Spider-Man, he decides to shelve his superhero alter ego, which leaves the city suffering in the wake of carnage left by the evil Doc Ock. In the meantime, Parker still can't act on his feelings for Mary Jane Watson, a girl he's loved since childhood. A certain anger begins to brew in his best friend Harry Osborn as well...",
+            "duration": "2h 7m",
+            "url": "movies/spiderman-2-2004"
+        },
+        {
+            "id": 10,
+            "tmdb_id": 559,
+            "imdb_id": "tt0413300",
+            "title": "Spider-Man 3",
+            "type": "movie",
+            "genre": [
+                "Action",
+                "Adventure",
+                "Science Fiction"
+            ],
+            "top_cast": [
+                "Tobey Maguire",
+                "Kirsten Dunst",
+                "James Franco",
+                "Thomas Haden Church",
+                "Topher Grace"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",
+                "https://image.tmdb.org/t/p/original/9BWVD70pofOapudGVdu7Wf90MKC.jpg",
+                "https://image.tmdb.org/t/p/original/sqZKCRYGovZ8aN99VVJSdL8Ja9k.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/5831VrgpYNPEokBwxurLVpQ3twM.jpg",
+                "https://image.tmdb.org/t/p/original/dxAWGyDADSazvz9pfPWPjryIVoE.jpg",
+                "https://image.tmdb.org/t/p/original/r475OTZndh5dhVPZK7rcRoEzdE7.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/zjZ54XVBHQQwnwEQVJqRrtWKTbB.jpg",
+                "https://image.tmdb.org/t/p/original/zHXbdtr2Dx61Ysr0G8L4ZAqO61N.jpg",
+                "https://image.tmdb.org/t/p/original/2dcxQJGlzlect7ffLkmX1mS9oUd.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/w1oD1MzHjnBJc5snKupIQaSBLIh.jpg",
+                "https://image.tmdb.org/t/p/original/eSGBbCOX7KM3Rf8HHwK8tglklyS.jpg",
+                "https://image.tmdb.org/t/p/original/uKNT3nHp0qCw9RbNpKj5OeXkeHS.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/wPilOoeK96QNMiWI25Xugqu9yVf.png",
+                "https://image.tmdb.org/t/p/original/6bVgfjFS0O0t81ZlFnhhCzl6nJ4.png",
+                "https://image.tmdb.org/t/p/original/xYaPsUe7IxlXL4VsRe7lTz6RSbE.png"
+            ],
+            "rating": "6.4",
+            "year": "2007",
+            "ageRating": "PG",
+            "description": "The seemingly invincible Spider-Man goes up against an all-new crop of villains—including the shape-shifting Sandman. While Spider-Man’s superpowers are altered by an alien organism, his alter ego, Peter Parker, deals with nemesis Eddie Brock and also gets caught up in a love triangle.",
+            "duration": "2h 19m",
+            "url": "movies/spiderman-3-2007"
+        },
+        {
+            "id": 11,
+            "tmdb_id": 315635,
+            "imdb_id": "tt2250912",
+            "title": "Spider-Man: Homecoming",
+            "type": "movie",
+            "genre": [
+                "Action",
+                "Adventure",
+                "Science Fiction",
+                "Drama"
+            ],
+            "top_cast": [
+                "Tom Holland",
+                "Michael Keaton",
+                "Robert Downey Jr.",
+                "Marisa Tomei",
+                "Jon Favreau"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+                "https://image.tmdb.org/t/p/original/wFNNv1ZHglNdXJLYiEgpLY5sa9S.jpg",
+                "https://image.tmdb.org/t/p/original/sd1eByiFLL0arwkip6lV6l25cSj.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg",
+                "https://image.tmdb.org/t/p/original/1Mdeo2Id5Q0uGna46wrnCBWkhMY.jpg",
+                "https://image.tmdb.org/t/p/original/eHbPgd18AI4zsXED58OK2X8acNX.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/7PhC0zGZNRWNQSXJz9Y3kAooGer.jpg",
+                "https://image.tmdb.org/t/p/original/yjNhOJccI1FQhQm2ia4zBfkFHL3.jpg",
+                "https://image.tmdb.org/t/p/original/qYEDPEgacZYLKyMcOL0in7A8z9Q.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/tPpYGm2mVecue7Bk3gNVoSPA5qn.jpg",
+                "https://image.tmdb.org/t/p/original/b5EhDAly33c6Allclns7u22hHUb.jpg",
+                "https://image.tmdb.org/t/p/original/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/zxdyOGiGE1dUFgTGr4kvF1NTWdq.png",
+                "https://image.tmdb.org/t/p/original/x2pvxdNowOE7FqbaHjxZXdGq9m.png",
+                "https://image.tmdb.org/t/p/original/o5VflgOG7XBqdw5uBLArq3N1qfB.png"
+            ],
+            "rating": "7.3",
+            "year": "2017",
+            "ageRating": "PG",
+            "description": "Following the events of Captain America: Civil War, Peter Parker, with the help of his mentor Tony Stark, tries to balance his life as an ordinary high school student in Queens, New York City, with fighting crime as his superhero alter ego Spider-Man as a new threat, the Vulture, emerges.",
+            "duration": "2h 13m",
+            "url": "movies/spiderman-homecoming-2017"
+        },
+        {
+            "id": 12,
+            "tmdb_id": 429617,
+            "imdb_id": "tt6320628",
+            "title": "Spider-Man: Far From Home",
+            "type": "movie",
+            "genre": [
+                "Action",
+                "Adventure",
+                "Science Fiction"
+            ],
+            "top_cast": [
+                "Tom Holland",
+                "Jake Gyllenhaal",
+                "Samuel L. Jackson",
+                "Marisa Tomei",
+                "Jon Favreau"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+                "https://image.tmdb.org/t/p/original/zrNKUa5SBUwue39coJArNdDgQJM.jpg",
+                "https://image.tmdb.org/t/p/original/lcq8dVxeeOqHvvgcte707K0KVx5.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg",
+                "https://image.tmdb.org/t/p/original/8V0hpq8BUzauB06eEfr7AmyTzbK.jpg",
+                "https://image.tmdb.org/t/p/original/wL1S9750WaxxvbbuUBfkbAskDd8.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/vA4GjP2AVhx5zwKzJdh33PDp3J9.jpg",
+                "https://image.tmdb.org/t/p/original/cj9Zgsz1vJafjneYZkRivz5RkvX.jpg",
+                "https://image.tmdb.org/t/p/original/kbTIuxV28vM4r0jsme9UtVANCjp.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/34jW8LvjRplM8Pv06cBFDpLlenR.jpg",
+                "https://image.tmdb.org/t/p/original/vamhMTvh9m9zFHDoR0v1nRtf6T4.jpg",
+                "https://image.tmdb.org/t/p/original/ng6SSB3JhbcpKTwbPDsRwUYK8Cq.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/AA7j1iGNgGxPgbwt3T3erZ5lV5.png",
+                "https://image.tmdb.org/t/p/original/7pin15gYwTNheEjcxE3RiuHeGQM.png",
+                "https://image.tmdb.org/t/p/original/tTc2yOIS4i2BCcP7HPIgnkjWyYE.png"
+            ],
+            "rating": "7.4",
+            "year": "2019",
+            "ageRating": "PG-13",
+            "description": "Peter Parker and his friends go on a summer trip to Europe. However, they will hardly be able to rest - Peter will have to agree to help Nick Fury uncover the mystery of creatures that cause natural disasters and destruction throughout the continent.",
+            "duration": "2h 9m",
+            "url": "movies/spiderman-far-from-home-2019"
+        },
+        {
+            "id": 13,
+            "tmdb_id": 634649,
+            "imdb_id": "tt10872600",
+            "title": "Spider-Man: No Way Home",
+            "type": "movie",
+            "genre": [
+                "Action",
+                "Adventure",
+                "Science Fiction"
+            ],
+            "top_cast": [
+                "Tom Holland",
+                "Zendaya",
+                "Benedict Cumberbatch",
+                "Jacob Batalon",
+                "Jon Favreau"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+                "https://image.tmdb.org/t/p/original/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg",
+                "https://image.tmdb.org/t/p/original/8Ww5OYw6z8jJNTGcNXoiBswphzc.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/8qBccgSj0Ru9Odm1Mjv82cxDr7l.jpg",
+                "https://image.tmdb.org/t/p/original/jwfDFqzxBkXC5bERBZrCEfK9iii.jpg",
+                "https://image.tmdb.org/t/p/original/fm3fiiKCTJip2UAn78XJ8Avo49i.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/utxfKMtH91Q5uPvFMFDLnxohXHV.jpg",
+                "https://image.tmdb.org/t/p/original/qeDve1EjMaiOtMBMWOV8o4zYojD.jpg",
+                "https://image.tmdb.org/t/p/original/ekJqwEoa3E2UtPBuMEd6blHjaXW.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+                "https://image.tmdb.org/t/p/original/zD5v1E4joAzFvmAEytt7fM3ivyT.jpg",
+                "https://image.tmdb.org/t/p/original/AeK2MPOpYrOOgZNfFnfwp0L8tNn.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/dEFxlY8tBr3MfcofIJKzqQKVe6B.png",
+                "https://image.tmdb.org/t/p/original/9xjIoK8eGVvMdiqwUQbEBUeh9Ej.png",
+                "https://image.tmdb.org/t/p/original/2yb6AxqyeB0CeYg8kGxWfrMl7xZ.png"
+            ],
+            "rating": "7.9",
+            "year": "2021",
+            "ageRating": "PG-13",
+            "description": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+            "duration": "2h 28m",
+            "url": "movies/spiderman-no-way-home-2021"
+        },
+        {
+            "id": 14,
+            "tmdb_id": 1257960,
+            "imdb_id": "tt31712434",
+            "title": "Sikandar",
+            "type": "movie",
+            "genre": [
+                "Action",
+                "Drama"
+            ],
+            "top_cast": [
+                "Salman Khan",
+                "Rashmika Mandanna",
+                "Sathyaraj",
+                "Sharman Joshi",
+                "Prateik Smita Patil"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/w500/41s42CRXafa3OuRGvCtfYPEBmse.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/41s42CRXafa3OuRGvCtfYPEBmse.jpg",
+                "https://image.tmdb.org/t/p/original/pVVc22lqclqBgJxaIguRRkfqhT1.jpg",
+                "https://image.tmdb.org/t/p/original/wpgQtYsj6SJ36BjlMf7MK1ouuUx.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/l2wRY9DFF9gRhclePCZ1YtoVVMm.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/4MNRH73XmwBK2ycv3qvLpa07O5F.jpg",
+                "https://image.tmdb.org/t/p/original/xLhVwypEHzgcUhRzpCweDUEvtzG.jpg",
+                "https://image.tmdb.org/t/p/original/l2wRY9DFF9gRhclePCZ1YtoVVMm.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/bNKRRx5KzuyILXUvV7Xr8SYNVYg.png",
+                "https://image.tmdb.org/t/p/original/aRzbbnq2vfsIHWw4iMgEmSWIOwj.png",
+                "https://image.tmdb.org/t/p/original/odWeQ9wSbEOTwEpln0IdwTwWClJ.png"
+            ],
+            "rating": "4.9",
+            "year": "2025",
+            "ageRating": "G",
+            "description": "A tragic accident pushes the powerful Sikandar to protect the less fortunate by standing up to corruption and greed — using any means necessary.",
+            "duration": "2h 13m",
+            "url": "movies/sikandar-2025"
+        },
+        {
+            "id": 15,
+            "tmdb_id": 746036,
+            "imdb_id": "tt1684562",
+            "title": "The Fall Guy",
+            "type": "movie",
+            "genre": [
+                "Action",
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "top_cast": [
+                "Ryan Gosling",
+                "Emily Blunt",
+                "Aaron Taylor-Johnson",
+                "Hannah Waddingham",
+                "Teresa Palmer"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/e7olqFmzcIX5c23kX4zSmLPJi8c.jpg",
+                "https://image.tmdb.org/t/p/original/tSz1qsmSJon0rqjHBxXZmrotuse.jpg",
+                "https://image.tmdb.org/t/p/original/jDX7mgz1AJHLPMm6UDZmTeK0hZx.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/gxafr7rbPbaxCc93oFEEQ362F47.jpg",
+                "https://image.tmdb.org/t/p/original/doYnQLJQ62czrBvq1VYbxHt3FLq.jpg",
+                "https://image.tmdb.org/t/p/original/wtmzcE5Pfk5ZXnPHRAUPZnrq5U0.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/teamRSyYHIEcaQO6nkQQiEv6Gob.jpg",
+                "https://image.tmdb.org/t/p/original/5Mk6kOpLjoPICkIW9TuMOYSG6Id.jpg",
+                "https://image.tmdb.org/t/p/original/jbCKJJPumo5PFVOPg6EkQ9Nt5KF.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/2Ao9t2GOLb9WWVbjQmc1odaKh1m.jpg",
+                "https://image.tmdb.org/t/p/original/H5HjE7Xb9N09rbWn1zBfxgI8uz.jpg",
+                "https://image.tmdb.org/t/p/original/2rjI2uXmjitMAaXVO21r9ao7v2j.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/xsmBMxBjQLgYLJZGWxAyE28YWU5.png",
+                "https://image.tmdb.org/t/p/original/qOIODiQxgzQEk6kkAzHW7jWWQpp.png",
+                "https://image.tmdb.org/t/p/original/v1CNpoNIbxxI18XxVRWzFEIEaxY.png"
+            ],
+            "rating": "7.0",
+            "year": "2024",
+            "ageRating": "PG-13",
+            "description": "Fresh off an almost career-ending accident, stuntman Colt Seavers has to track down a missing movie star, solve a conspiracy and try to win back the love of his life while still doing his day job.",
+            "duration": "2h 7m",
+            "url": "movies/the-fall-guy-2024"
+        },
+        {
+            "id": 16,
+            "tmdb_id": 4553,
+            "imdb_id": "tt0361862",
+            "title": "The Machinist",
+            "type": "movie",
+            "genre": [
+                "Thriller",
+                "Drama"
+            ],
+            "top_cast": [
+                "Christian Bale",
+                "Jennifer Jason Leigh",
+                "Aitana Sánchez-Gijón",
+                "John Sharian",
+                "Michael Ironside"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/diAYqR4xdF9Hnj7qun6DEQhRrT2.jpg",
+                "https://image.tmdb.org/t/p/original/ukMORT211Xi7I8mvtg9aXgzs374.jpg",
+                "https://image.tmdb.org/t/p/original/hPO0MvJFjHUQjUvUN9sarF8t9qW.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/9yIijxgqMKDX41elnIu01EX5JUR.jpg",
+                "https://image.tmdb.org/t/p/original/5W82dAg4Tm6UyL7p8Z3ILsfZEFb.jpg",
+                "https://image.tmdb.org/t/p/original/AjiSHn5CivzzPdHxtP4oqSTasv8.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/ruz7181OPmO6Amzm0Kzf8I1cR7T.jpg",
+                "https://image.tmdb.org/t/p/original/7H2BXK6hakuMddCw2YlHJRKFEkV.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/4ngUkStgauKB9L0Jjwkx1Hz1dry.jpg",
+                "https://image.tmdb.org/t/p/original/gw7wnZKHYpNpC9VJ35yInFXlsqF.jpg",
+                "https://image.tmdb.org/t/p/original/bTTT7DWMZVwpbCeU9PG8TVHMAB8.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/uZf5K2vy3u7Ql2KCdISPEZEeA6u.png"
+            ],
+            "rating": "7.5",
+            "year": "2004",
+            "ageRating": "PG-13",
+            "description": "Trevor, an insomniac lathe operator, experiences unusual occurrences at work and home. A strange man follows him everywhere, but no one else seems to notice him.",
+            "duration": "1h 41m",
+            "url": "movies/the-machinist-2004"
+        },
+        {
+            "id": 17,
+            "tmdb_id": 266294,
+            "imdb_id": "tt1850457",
+            "title": "Sisters",
+            "type": "movie",
+            "genre": [
+                "Comedy"
+            ],
+            "top_cast": [
+                "Amy Poehler",
+                "Tina Fey",
+                "Maya Rudolph",
+                "Dianne Wiest",
+                "John Leguizamo"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/hpvHqAiusQtGNDx48dA3z5ejjon.jpg",
+                "https://image.tmdb.org/t/p/original/z5dSHoHkUDTFipslxKIfU02kFdG.jpg",
+                "https://image.tmdb.org/t/p/original/m9N3werd97M7IMh5cEMbya3fB41.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/gQKkh2OM32vfFdiIMHry916R8ZM.jpg",
+                "https://image.tmdb.org/t/p/original/76mj1iXTJ1WSkreOYFiqVZ4QxG1.jpg",
+                "https://image.tmdb.org/t/p/original/d5FcmkZO7wulpX1NNjkm5KaHI8H.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/lpxChPU4un6lQLCNn08GKIfIN46.jpg",
+                "https://image.tmdb.org/t/p/original/cNvaVE7A3zK8XumUhsUgHvMeddx.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/zwk2Ws5fcRYkK2lZ9k1983OPnGs.jpg",
+                "https://image.tmdb.org/t/p/original/6AdcehxtcNib9qpGOhdRTcla54N.jpg",
+                "https://image.tmdb.org/t/p/original/onPh8SMSB7l11cixETLShb6QeG2.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/nE4PqqTWYI8mwfvAxPm9pTyefOt.png",
+                "https://image.tmdb.org/t/p/original/zkKx0nVFIQwEvedZcWly3zB4XCl.png",
+                "https://image.tmdb.org/t/p/original/dRAWN8bcOW5HBmhLvoshFAElUHV.png"
+            ],
+            "rating": "6.0",
+            "year": "2015",
+            "ageRating": "PG-13",
+            "description": "Two disconnected sisters are summoned to clean out their childhood bedrooms before their parents sell their family home.",
+            "duration": "1h 58m",
+            "url": "movies/sisters-2015"
+        },
+        {
+            "id": 18,
+            "tmdb_id": 559969,
+            "imdb_id": "tt9243946",
+            "title": "El Camino: A Breaking Bad Movie",
+            "type": "movie",
+            "genre": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "top_cast": [
+                "Aaron Paul",
+                "Jesse Plemons",
+                "Charles Baker",
+                "Matt Jones",
+                "Scott MacArthur"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/ePXuKdXZuJx8hHMNr2yM4jY2L7Z.jpg",
+                "https://image.tmdb.org/t/p/original/6uyjWFzl59NSl4A7cORMpZ2X4Fu.jpg",
+                "https://image.tmdb.org/t/p/original/4H5lOSPKvTvIlRdxdf1E9ReAtXd.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/ePXuKdXZuJx8hHMNr2yM4jY2L7Z.jpg",
+                "https://image.tmdb.org/t/p/original/6uyjWFzl59NSl4A7cORMpZ2X4Fu.jpg",
+                "https://image.tmdb.org/t/p/original/4H5lOSPKvTvIlRdxdf1E9ReAtXd.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/xRqyLN7GdFZPqg9r2H7JFgjYGyP.jpg",
+                "https://image.tmdb.org/t/p/original/kt2ky8yfyKcXyE6EdCWI7cri9dK.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/uLXK1LQM28XovWHPao3ViTeggXA.jpg",
+                "https://image.tmdb.org/t/p/original/9igMXvlUR1zrahnQdiXAg3dtaTb.jpg",
+                "https://image.tmdb.org/t/p/original/bzJNKVRLOR4cxuirVZTCrb3EQwH.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/6wZXUCi2YPfIY91ifWpbkjn5x2q.png",
+                "https://image.tmdb.org/t/p/original/qfAuSn7X34Ut09UqbxxXIEUAgaK.png",
+                "https://image.tmdb.org/t/p/original/8x3uCnvaPOfvTmxOmpEVoHlkjMr.png"
+            ],
+            "rating": "7.0",
+            "year": "2019",
+            "ageRating": "R",
+            "description": "In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.",
+            "duration": "2h 3m",
+            "url": "movies/el-camino-a-breaking-bad-movie-2019"
+        },
+        {
+            "id": 19,
+            "tmdb_id": 1084812,
+            "imdb_id": "tt26660021",
+            "title": "Aavesham",
+            "type": "movie",
+            "genre": [
+                "Comedy",
+                "Action"
+            ],
+            "top_cast": [
+                "Fahadh Faasil",
+                "Hipster",
+                "Mithun Jai Sankar",
+                "Roshan Shanavas",
+                "Sajin Gopu"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/dZrK0XmFT5fL4ax7qn7JHXWupVH.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/k5RWPaNjgRcNvGoawYaQHQwyctI.jpg",
+                "https://image.tmdb.org/t/p/original/2P4AclxHw4Lv8BEn5HbKobUEW80.jpg",
+                "https://image.tmdb.org/t/p/original/dZrK0XmFT5fL4ax7qn7JHXWupVH.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/mdakq3Vuf3ejSt7bcJjSllDLkyD.jpg",
+                "https://image.tmdb.org/t/p/original/byPxQJyJ0GqF7Bq4RcySo4LGDtI.jpg",
+                "https://image.tmdb.org/t/p/original/oIQ2IXHjUziIPRstKVC6WJkFIRa.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/mdakq3Vuf3ejSt7bcJjSllDLkyD.jpg",
+                "https://image.tmdb.org/t/p/original/geUh6O5jBBBKsujZxbDCdpvZeRI.jpg",
+                "https://image.tmdb.org/t/p/original/5w72M5nZ4KB2b4YsRsWUSDZxhlG.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/83QKO7iohho7kCWASnL22ZGYsZj.png",
+                "https://image.tmdb.org/t/p/original/3p4e5nX1GtEEfIuHzVTf8ol7JG0.png"
+            ],
+            "rating": "7.4",
+            "year": "2024",
+            "ageRating": "PG-13",
+            "description": "Three college freshmen in Bangalore befriend an eccentric gangster to get revenge on their senior bullies.",
+            "duration": "2h 38m",
+            "url": "movies/aavesham-2024"
+        },
+        {
+            "id": 20,
+            "tmdb_id": 512200,
+            "imdb_id": "tt7975244",
+            "title": "Jumanji: The Next Level",
+            "type": "movie",
+            "genre": [
+                "Adventure",
+                "Comedy",
+                "Fantasy"
+            ],
+            "top_cast": [
+                "Dwayne Johnson",
+                "Kevin Hart",
+                "Jack Black",
+                "Karen Gillan",
+                "Awkwafina"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/4kh9dxAiClS2GMUpkRyzGwpNWWX.jpg",
+                "https://image.tmdb.org/t/p/original/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg",
+                "https://image.tmdb.org/t/p/original/bB42KDdfWkOvmzmYkmK58ZlCa9P.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/gNTip9ykUSPeAxx5GUnbrgP2QdD.jpg",
+                "https://image.tmdb.org/t/p/original/jdLlmwmFhFBvH7Gc46nOLD2fiGZ.jpg",
+                "https://image.tmdb.org/t/p/original/jR3EmKf2ymEVqJXDObpmYQiugpS.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/xCzWBppNfjX9fgj8syHURioQw2r.jpg",
+                "https://image.tmdb.org/t/p/original/cKCNNrvbfasHo5X3vPr1mdsr38v.jpg",
+                "https://image.tmdb.org/t/p/original/38MiHaKR7AsWY609ymm7gbfXXdZ.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/rAmRdD30Zb0qc0SGjX7X9pHKbvc.jpg",
+                "https://image.tmdb.org/t/p/original/zTxHf9iIOCqRbxvl8W5QYKrsMLq.jpg",
+                "https://image.tmdb.org/t/p/original/oLma4sWjqlXVr0E3jpaXQCytuG9.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/nmpQDwh8LrBe7eDCPr1xcUif8Pc.png",
+                "https://image.tmdb.org/t/p/original/iPB6YfHsqpcW0cGQeQ1s2Yo4ewX.png"
+            ],
+            "rating": "6.9",
+            "year": "2019",
+            "ageRating": "PG-13",
+            "description": "As the gang return to Jumanji to rescue one of their own, they discover that nothing is as they expect. The players will have to brave parts unknown and unexplored in order to escape the world’s most dangerous game.",
+            "duration": "2h 3m",
+            "url": "movies/jumanji-the-next-level-2019"
+        },
+        {
+            "id": 21,
+            "tmdb_id": 426063,
+            "imdb_id": "tt5040012",
+            "title": "Nosferatu",
+            "type": "movie",
+            "genre": [
+                "Drama",
+                "Horror",
+                "Fantasy"
+            ],
+            "top_cast": [
+                "Lily-Rose Depp",
+                "Nicholas Hoult",
+                "Bill Skarsgård",
+                "Aaron Taylor-Johnson",
+                "Willem Dafoe"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+                "https://image.tmdb.org/t/p/original/d0B8xDdqBZlzlPEzES8lu5LlNQn.jpg",
+                "https://image.tmdb.org/t/p/original/inL6BKEe7IyjEJyHocyKW7QuJlN.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/5qGIxdEO841C0tdY8vOdLoRVrr0.jpg",
+                "https://image.tmdb.org/t/p/original/oHmwlW121vqSPvD27sRTRco1Vz6.jpg",
+                "https://image.tmdb.org/t/p/original/d0B8xDdqBZlzlPEzES8lu5LlNQn.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/7sU2zrDAZotvbevjLzkeBY2GsvF.jpg",
+                "https://image.tmdb.org/t/p/original/6AGimic51TvEPezTTlCgSZbWmTL.jpg",
+                "https://image.tmdb.org/t/p/original/9clmCKSViLqiiL9jwy6nMikL5dE.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/fYnEbgoNCxW9kL0IgOgtJb9JTBU.jpg",
+                "https://image.tmdb.org/t/p/original/2gAStVyyv9C3BSEKhP0a1aM3Qy9.jpg",
+                "https://image.tmdb.org/t/p/original/uWOJbarUXfVf6B4o0368dh138eR.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/pkAiCBNf5uDpqT2rCDmatRyhDiK.png",
+                "https://image.tmdb.org/t/p/original/bklLnfvDDzwGwyAiCEvg4AN8QCg.png",
+                "https://image.tmdb.org/t/p/original/wRdElQ3qFNA7gjUaRmDQT8APSQD.png"
+            ],
+            "rating": "6.7",
+            "year": "2024",
+            "ageRating": "R",
+            "description": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
+            "duration": "2h 13m",
+            "url": "movies/nosferatu-2024"
+        },
+        {
+            "id": 22,
+            "tmdb_id": 934772,
+            "imdb_id": "tt15509564",
+            "title": "Ranga Ranga Vaibhavanga",
+            "type": "movie",
+            "genre": [
+                "Romance",
+                "Comedy",
+                "Drama"
+            ],
+            "top_cast": [
+                "Panja Vaisshnav Tej",
+                "Ketika Sharma",
+                "Naveen Chandra",
+                "Naresh",
+                "Prabhu"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/4FiERyPvvgla3ebsDsxsOmet7FO.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/71afZw3Esx3gVehEFRm7I0xJg2L.jpg",
+                "https://image.tmdb.org/t/p/original/6FS54rmiP3vgghIujafaU6BqeBf.jpg",
+                "https://image.tmdb.org/t/p/original/lhCLGq2fT9mg1mffuMqdUneTbQM.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/h8c15bC4TjdBZjhl1Hr6YsCnck6.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/vusj9GKxNNKR0ImecgUCJFJ9Whz.jpg",
+                "https://image.tmdb.org/t/p/original/cVDfasJV7bCdfL65FrSIep3wFmy.jpg",
+                "https://image.tmdb.org/t/p/original/h8c15bC4TjdBZjhl1Hr6YsCnck6.jpg"
+            ],
+            "logo": [],
+            "rating": "4.6",
+            "year": "2022",
+            "ageRating": "G",
+            "description": "Two childhood sweethearts love to hate each other due to their egos. What happens when they reconcile but their families begin warring each other instead?",
+            "duration": "2h 2m",
+            "url": "movies/ranga-ranga-vaibhavanga-2022"
+        },
+        {
+            "id": 23,
+            "tmdb_id": 1124620,
+            "imdb_id": "tt27714946",
+            "title": "The Monkey",
+            "type": "movie",
+            "genre": [
+                "Horror",
+                "Comedy"
+            ],
+            "top_cast": [
+                "Theo James",
+                "Tatiana Maslany",
+                "Christian Convery",
+                "Colin O'Brien",
+                "Adam Scott"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg",
+                "https://image.tmdb.org/t/p/original/aGDekyIb0yfmnuLZciCozRPk2TE.jpg",
+                "https://image.tmdb.org/t/p/original/2i3KrQdUAbMgSQAnSqeienj04mQ.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/yYa8Onk9ow7ukcnfp2QWVvjWYel.jpg",
+                "https://image.tmdb.org/t/p/original/ehrnPGBOA7EDYDYijNQxcEWLW9F.jpg",
+                "https://image.tmdb.org/t/p/original/qLSlBzjbCfcsIY657VBbuqRr6Hy.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/270hd3fc6mlfr7rRAr5CROaJ43h.jpg",
+                "https://image.tmdb.org/t/p/original/dqRP9dsh09goAgWKuGveNkA1kyB.jpg",
+                "https://image.tmdb.org/t/p/original/fyfVfgu8fUJIqlDIfXO065AJ1OV.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/pp5VyGrGnpHxuQEtb1JOpGDcRO3.jpg",
+                "https://image.tmdb.org/t/p/original/cjZ7No0DX2L3ielLSoUOMYPw7C.jpg",
+                "https://image.tmdb.org/t/p/original/Ag6U63Qvd8OIgIwfJYjqyuWNPYC.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/4ErxI9hrCWYewkZODZHOwmn43xe.png",
+                "https://image.tmdb.org/t/p/original/6Iyl06AOfAqbKXzDmZmdesbiuRm.png"
+            ],
+            "rating": "5.9",
+            "year": "2025",
+            "ageRating": "R",
+            "description": "When twin brothers find a mysterious wind-up monkey, a series of outrageous deaths tear their family apart. Twenty-five years later, the monkey begins a new killing spree forcing the estranged brothers to confront the cursed toy.",
+            "duration": "1h 37m",
+            "url": "movies/the-monkey-2025"
+        },
+        {
+            "id": 24,
+            "tmdb_id": 615777,
+            "imdb_id": "tt10640346",
+            "title": "Babylon",
+            "type": "movie",
+            "genre": [
+                "Drama",
+                "Comedy"
+            ],
+            "top_cast": [
+                "Diego Calva",
+                "Margot Robbie",
+                "Brad Pitt",
+                "Jovan Adepo",
+                "Jean Smart"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+                "https://image.tmdb.org/t/p/original/pr15IJ4xWwEFiVPvaC7Ba8l67Tw.jpg",
+                "https://image.tmdb.org/t/p/original/b7AFJYg1hkEDoG5ma6tveFXyua6.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/f34UGIUYFaPuQWJCzRUnnzcRkLW.jpg",
+                "https://image.tmdb.org/t/p/original/uWCI0LoCNNl28iiYMYCWVOqrI8Z.jpg",
+                "https://image.tmdb.org/t/p/original/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/vy9UcZnKeQRPWMHS27rkELF0GBm.jpg",
+                "https://image.tmdb.org/t/p/original/eF0vdytUOSvXkmPRUAxeABo4j0r.jpg",
+                "https://image.tmdb.org/t/p/original/qFimdViLr9Ka4WlX5h1q2LphRQr.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/5fxTB08O7CW1hAcN2MWOKodp1h1.jpg",
+                "https://image.tmdb.org/t/p/original/oCKZAdUROqdlTcUOstqJ1gM8JQt.jpg",
+                "https://image.tmdb.org/t/p/original/97YB4PkXVl0O4JW0AKZpXQ79ecY.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/7BbmApmo068fbJIDN6yZSf2EYlT.png",
+                "https://image.tmdb.org/t/p/original/o0LCUNwBeyltMdijYjKtF8JTuqk.png",
+                "https://image.tmdb.org/t/p/original/emGUebkzWWudEQvdwkGK1cHqP1u.png"
+            ],
+            "rating": "7.4",
+            "year": "2022",
+            "ageRating": "R",
+            "description": "A tale of outsized ambition and outrageous excess, tracing the rise and fall of multiple characters in an era of unbridled decadence and depravity during Hollywood's transition from silent films to sound films in the late 1920s.",
+            "duration": "3h 9m",
+            "url": "movies/babylon-2022"
+        },
+        {
+            "id": 25,
+            "tmdb_id": 560016,
+            "imdb_id": "tt9214772",
+            "title": "Monkey Man",
+            "type": "movie",
+            "genre": [
+                "Action",
+                "Thriller"
+            ],
+            "top_cast": [
+                "Dev Patel",
+                "Sikandar Kher",
+                "Makrand Deshpande",
+                "Pitobash",
+                "Vipin Sharma"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg",
+                "https://image.tmdb.org/t/p/original/wjXEpLMghTK5Fkd2u0m04sz71l.jpg",
+                "https://image.tmdb.org/t/p/original/b4fn3VIdVTT3SX0rFMNFbl5xuvg.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/ohryMMDiQKHaG6m0nMnTi4OM1xC.jpg",
+                "https://image.tmdb.org/t/p/original/hYjfNfHW1bfZBCjRU62geQIb2Ud.jpg",
+                "https://image.tmdb.org/t/p/original/hIh4OnjiR1VkXYAs79TwkoIZuF7.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/uJVGCcquEGwaZKOhYEycEnkE4to.jpg",
+                "https://image.tmdb.org/t/p/original/eEfnkhH4HinE1Gthlr3PA2HRHWM.jpg",
+                "https://image.tmdb.org/t/p/original/AmkqPqItpq4R9Zfl9l74YF6c9eM.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/qwU4cRX74cN6Z9XvDEOoYsoEAoN.jpg",
+                "https://image.tmdb.org/t/p/original/9NSXdVHeSfSHUv49OzLispFcpz1.jpg",
+                "https://image.tmdb.org/t/p/original/3SqOjJkPpECHdYAOgtSpYZdTx0M.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/pf8VZ1FuUaftGI6r4nG6rtBR6HG.png",
+                "https://image.tmdb.org/t/p/original/o82gaKQpIkQcY7geM5X69GZ9qG5.png",
+                "https://image.tmdb.org/t/p/original/99WH6zVWahp0aof4WGmzqNO8N26.png"
+            ],
+            "rating": "6.9",
+            "year": "2024",
+            "ageRating": "R",
+            "description": "Kid is an anonymous young man who ekes out a meager living in an underground fight club where, night after night, wearing a gorilla mask, he is beaten bloody by more popular fighters for cash. After years of suppressed rage, Kid discovers a way to infiltrate the enclave of the city’s sinister elite. As his childhood trauma boils over, his mysteriously scarred hands unleash an explosive campaign of retribution to settle the score with the men who took everything from him.",
+            "duration": "2h 1m",
+            "url": "movies/monkey-man-2024"
+        },
+        {
+            "id": 26,
+            "tmdb_id": 1396,
+            "imdb_id": "tt0903747",
+            "title": "Breaking Bad",
+            "type": "series",
+            "genre": [
+                "Drama",
+                "Crime"
+            ],
+            "top_cast": [
+                "Bryan Cranston",
+                "Aaron Paul",
+                "Anna Gunn",
+                "RJ Mitte",
+                "Dean Norris"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+                "https://image.tmdb.org/t/p/original/ineLOBPG8AZsluYwnkMpHRyu7L.jpg",
+                "https://image.tmdb.org/t/p/original/vZ1RQSDZ3xzBhLqJdrmvpkm2Nbu.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/zla1t6G3mUIBG0b2tPqMY0MvM6T.jpg",
+                "https://image.tmdb.org/t/p/original/oVLZtMcIjouOXBA2nz9tJHqrK4A.jpg",
+                "https://image.tmdb.org/t/p/original/bMSbEx9vXCSGN4NEktjVIEuibn2.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/tPIEBq3G4a6a94aVp4zoLNtTGTj.jpg",
+                "https://image.tmdb.org/t/p/original/whL1DXc6TDGYxtuvVRKRCRWvqni.jpg",
+                "https://image.tmdb.org/t/p/original/hwIAR9FDsKULo8efoOUuxsFtO2u.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/9faGSFi5jam6pDWGNd0p8JcJgXQ.jpg",
+                "https://image.tmdb.org/t/p/original/gc8PfyTqzqltKPW3X0cIVUGmagz.jpg",
+                "https://image.tmdb.org/t/p/original/EurcYIB7obJgoVzeui2RZkFlEm.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/chw44B2VnLha8iiTdyZcIW0ZELC.png",
+                "https://image.tmdb.org/t/p/original/72OJ4Uqmdi8DwPqfjQtz7IG43cc.png",
+                "https://image.tmdb.org/t/p/original/h6yDiAXP5AyOzXHTxjUssYOGbG3.png"
+            ],
+            "rating": "8.9",
+            "year": "2008",
+            "ageRating": "R",
+            "description": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+            "duration": "45m",
+            "url": "series/breaking-bad"
+        },
+        {
+            "id": 27,
+            "tmdb_id": 46648,
+            "imdb_id": "tt2356777",
+            "title": "True Detective",
+            "type": "series",
+            "genre": [
+                "Drama",
+                "Mystery"
+            ],
+            "top_cast": [
+                "Jodie Foster",
+                "Kali Reis",
+                "Fiona Shaw",
+                "Finn Bennett",
+                "Isabella Star LaBlanc"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg",
+                "https://image.tmdb.org/t/p/original/mV16EBXQ6kDWpj31P6BEhmzTTkd.jpg",
+                "https://image.tmdb.org/t/p/original/dC7jkj2g1aU8sxKqM6D4g44xA6w.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/cuV2O5ZyDLHSOWzg3nLVljp1ubw.jpg",
+                "https://image.tmdb.org/t/p/original/suXDyrcjthZZn43C0dCnx4W8PEu.jpg",
+                "https://image.tmdb.org/t/p/original/yzbAnQp1pIhjLDEvIP1ZgAMVvrk.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/c27jL84jaLZVLCTaxY51rDLHYiq.jpg",
+                "https://image.tmdb.org/t/p/original/hkEmV34ZIGJ39QN23LjhWeUL6Q3.jpg",
+                "https://image.tmdb.org/t/p/original/toJlyzdk6edrb9BAUsMUCLQBC2M.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/scx72FpTF929jYXea0MphyE24Wa.jpg",
+                "https://image.tmdb.org/t/p/original/siA2d4PNn4JVFZAwfIYx4pnKCaK.jpg",
+                "https://image.tmdb.org/t/p/original/e3nq2DcnHj250o1bLClF3hExoIm.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/6q4KzOcM2eEE1IbhFTadUsQkphl.png",
+                "https://image.tmdb.org/t/p/original/u8aiiitwHBLDMoQicu6L5aJ4rtN.png",
+                "https://image.tmdb.org/t/p/original/aZXYkKQWhOIOiCeova5Sp9U26nK.png"
+            ],
+            "rating": "8.3",
+            "year": "2014",
+            "ageRating": "R",
+            "description": "An American anthology police detective series utilizing multiple timelines in which investigations seem to unearth personal and professional secrets of those involved, both within or outside the law.",
+            "duration": "1h",
+            "url": "series/true-detective"
+        },
+        {
+            "id": 28,
+            "tmdb_id": 96648,
+            "imdb_id": "tt11612120",
+            "title": "Sweet Home",
+            "type": "series",
+            "genre": [
+                "Sci-Fi & Fantasy",
+                "Action & Adventure"
+            ],
+            "top_cast": [
+                "Song Kang",
+                "Lee Jin-uk",
+                "Lee Si-young",
+                "Jung Jin-young",
+                "Lee Do-hyun"
+            ],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/zcugNxDg59YwIf3dUHsrHmO7pc1.jpg",
+                "https://image.tmdb.org/t/p/original/owGb1SExjoEZWOvPx6hAVAi2B7D.jpg",
+                "https://image.tmdb.org/t/p/original/AuwMx2iTm5NyZ0EMyVIdKg4bQkB.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/orSLGTg9jUfbW0ZpATeKS8o77O6.jpg",
+                "https://image.tmdb.org/t/p/original/kJEcSBMPacDJuAihPNmcUEgon1Y.jpg",
+                "https://image.tmdb.org/t/p/original/tasbvmaeJNp2hjKxD9pnAimXV1V.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/hhprqdEq1bmHFK1A6SZWRtYtBDE.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/mceCXNTny6a5F3rQgShLoyARw4l.jpg",
+                "https://image.tmdb.org/t/p/original/ssoSIZjv1zGIWT84tVCWJsqbF4t.jpg",
+                "https://image.tmdb.org/t/p/original/UbHKkZAf11zZWxnrq3HDaF150c.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/hO4qVP146x1ZJK219sdTcprjFuZ.png",
+                "https://image.tmdb.org/t/p/original/tPfB6aJRLc6ClGGv8TGt6M2bvTN.png",
+                "https://image.tmdb.org/t/p/original/y797cWICzrjKnRvOEmtTDJQQifJ.png"
+            ],
+            "rating": "8.3",
+            "year": "2020",
+            "ageRating": "R",
+            "description": "As humans turn into savage monsters and the world plunges into terror, a handful of survivors fight for their lives — and to hold on to their humanity.",
+            "duration": "52m",
+            "url": "series/sweet-home"
+        },
+        {
+            "id": 29,
+            "tmdb_id": 123249,
+            "imdb_id": "tt15765670",
+            "title": "My Dress-Up Darling",
+            "type": "series",
+            "genre": [
+                "Animation",
+                "Comedy",
+                "Drama"
+            ],
+            "top_cast": [],
+            "posters": [
+                "https://image.tmdb.org/t/p/original/A6mxBwvvv63JXZm3xXKv4SugE0L.jpg",
+                "https://image.tmdb.org/t/p/original/uiAYHj5cv2M3ru2K0FsB2sxfsle.jpg",
+                "https://image.tmdb.org/t/p/original/wzzLEUUrBT3Hr0FF9HrXxV6CsBF.jpg"
+            ],
+            "posterwithouttext": [
+                "https://image.tmdb.org/t/p/original/A6mxBwvvv63JXZm3xXKv4SugE0L.jpg",
+                "https://image.tmdb.org/t/p/original/5RyImK0oHGj3qGSzYJRFB7bjZX6.jpg",
+                "https://image.tmdb.org/t/p/original/uiAYHj5cv2M3ru2K0FsB2sxfsle.jpg"
+            ],
+            "backdropswithtext": [
+                "https://image.tmdb.org/t/p/original/2iYfq4Q4IXSmWXU8A4B3Py29jiB.jpg"
+            ],
+            "backdrops": [
+                "https://image.tmdb.org/t/p/original/gWPK2RIVJ6i3myf7Xdw8DqlznT8.jpg",
+                "https://image.tmdb.org/t/p/original/5EEOXlmdQD0Zd5OAcXVUEE2vSQj.jpg",
+                "https://image.tmdb.org/t/p/original/2iYfq4Q4IXSmWXU8A4B3Py29jiB.jpg"
+            ],
+            "logo": [
+                "https://image.tmdb.org/t/p/original/qrqTzbxdeozvmNkAS2B29E5TjJd.png"
+            ],
+            "rating": "8.5",
+            "year": "2022",
+            "ageRating": "PG-13",
+            "description": "Wakana Gojo is a high school boy who wants to become a kashirashi--a master craftsman who makes traditional Japanese Hina dolls. Though he's gung-ho about the craft, he knows nothing about the latest trends, and has a hard time fitting in with his class. The popular kids--especially one girl, Marin Kitagawa--seem like they live in a completely different world. That all changes one day, when she shares an unexpected secret with him, and their completely different worlds collide.",
+            "duration": "24m",
+            "url": "series/my-dressup-darling"
+        }
+    ]
+}
